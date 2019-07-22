@@ -39,7 +39,7 @@ int main(){
     */
 
         //Invoice
-    /*
+
     invoice *f1 = new invoice(79,2,3.50,"Batatas douradas");
 
     cout << "Num Item: " << f1->getNumItem() << "\nQuantidade: " << f1->getQItem() << endl;
@@ -55,7 +55,7 @@ int main(){
     cout << "Preco: " << f1->getPrecoItem() << "\nDescricao: " << f1->getDescricao() << endl;
 
     delete(f1);
-    */
+
 
         //Empregado
     /*
